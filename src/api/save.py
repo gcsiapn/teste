@@ -1,1 +1,1 @@
-fastapi
+#crie uma funcao que liste os dias da semna, e retorne o dia atual
